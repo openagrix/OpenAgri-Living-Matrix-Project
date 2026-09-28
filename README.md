@@ -1,4 +1,4 @@
-# OpenAgri-Living-Matrix-Project# OpenAgriX — Crypto World's Fair track
+# OpenAgriX — Crypto World's Fair track
 
 **Proof of Agriculture on Solana**
 
