@@ -29,7 +29,7 @@ The break is not a missing token. A buyer outside Vietnam will not trust a file 
 
 We record evidence for farms, cooperatives, exporters, and the buyer who has to check one lot. We do not turn crops into tradable assets.
 
-In September 2026 we sat with Duc Vinh Agricultural Cooperative in Chau Duc Commune, and with Nguyen Dang Tien, Director of the Center for Sustainable Economic Development. The subject was a customer path for agricultural digital transformation and export, built with local cooperatives. That was a working session. It is not a signed pilot, not a paid customer, and not revenue.
+In September 2026 we sat with Agricultural Cooperative in Chau Duc Commune, and with the Director of the Center for Sustainable Economic Development. The subject was a customer path for agricultural digital transformation and export, built with local cooperatives. That was a working session. It is not a signed pilot, not a paid customer, and not revenue.
 
 ### Why onchain
 
