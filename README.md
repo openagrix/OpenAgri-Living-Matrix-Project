@@ -19,7 +19,7 @@ The problem is that a buyer cannot easily know whether a file was changed after 
 
 ## Our Insight
 
-> A buyer should not have to trust OpenAgriX, the farm, or a middleman to know whether a record changed.
+> OpenAgriX connects everything that matters in agriculture — farms, evidence, quality, sustainability, and buyers — through one verifiable trust layer.
 
 Blockchain is not used to certify physical quality.
 
